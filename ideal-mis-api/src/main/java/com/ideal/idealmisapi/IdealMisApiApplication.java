@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class IdealMisApiApplication {
 
     public static void main(String[] args) {
+//12323123
         SpringApplication.run(IdealMisApiApplication.class, args);
     }
 
